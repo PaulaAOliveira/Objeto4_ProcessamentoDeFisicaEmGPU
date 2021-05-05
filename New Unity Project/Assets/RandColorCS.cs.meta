@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35d8d7930cb18544486d6e37afbbbd17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - computeShader: {instanceID: 0}
+  - modelPref: {fileID: 9002194444029568313, guid: 06ee2f431073b474b9e37e148b69c341, type: 3}
+  - floor: {fileID: 7109577550846589089, guid: 1b7f49a2a8a3e6343bd9b688e87fcc7a, type: 3}
+  - floorModel: {fileID: 7109577550846589089, guid: 1b7f49a2a8a3e6343bd9b688e87fcc7a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
